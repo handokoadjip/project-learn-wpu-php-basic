@@ -16,7 +16,7 @@ For those who want to contribute, just fork or download as usual!
 
 ## Installation
 
-Just fork or download it from this repository then open with default browser.
+Just fork or download it from this repository then copy it to htdocs directory.
 
 ## Usage example
 
@@ -24,7 +24,7 @@ No usage example.
 
 ## Development setup
 
-No development setup, just fork and download this directory and then open in default browser.
+No development setup, just copy this directory into the htdocs folder and run as usual.
 
 ## Release History
 
