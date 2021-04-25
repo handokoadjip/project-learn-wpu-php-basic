@@ -5,7 +5,7 @@
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/handokoadjipangestu/project-learn-wpu-php-basic/fork)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Inside all of these directories are PHP Basic learning materials as a foundation when you want to level up to intermediate.
+Inside all of these directories are PHP basic learning materials as a foundation when you want to level up to intermediate.
 
 For those who want to contribute, just fork or download as usual!
 
